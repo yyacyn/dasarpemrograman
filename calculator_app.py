@@ -26,4 +26,4 @@ if st.button("Calculate"):
             st.error("Division by zero is not allowed.")
 
 if result is not None:
-    st.success(f"Result: {result}"
+    st.success(f"Result: {result}")
