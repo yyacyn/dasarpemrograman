@@ -29,7 +29,7 @@ TPL B1
             <li><a href="https://github.com/yyacyn/dasarpemrograman/blob/3b95ef686d39b9dea5aac9c505e35b523ee25bbb/Modular/tugas2_automationtest.py">Tugas 2: Automation Test</li>
             <li><a href="https://github.com/yyacyn/dasarpemrograman/tree/3b95ef686d39b9dea5aac9c505e35b523ee25bbb/Modular/tugas3_streamlit">Tugas 3: Make It Modular</li>
             <ul>
-                <li><a href="https://dasarpemrograman-8gkc8jnzxjuym7btev8svn.streamlit.app/">Streamlit App</li>
+                <li><a href="https://yyacyncalculatorapp.streamlit.app/">Streamlit App</li>
                 <li><a href="https://github.com/yyacyn/dasarpemrograman/blob/3b95ef686d39b9dea5aac9c505e35b523ee25bbb/Modular/tugas3_streamlit/calculator_app.py">Calculator App</li>
                 <li><a href="https://github.com/yyacyn/dasarpemrograman/blob/3b95ef686d39b9dea5aac9c505e35b523ee25bbb/Modular/tugas3_streamlit/math_operations.py">Math Function</li>
             </ul>
